@@ -1,35 +1,40 @@
-id: opecha:P008148
+id: P008148
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W2MS2274
   title: གསུང་ཐོར་བུ། བློ་བཟང་མཆོག་གྲུབ་
-  volume:
+  author: ''
+  volumes:
     08fcd19fb0ff467183232d85c913b6ed:
       image_group_id: I1KG906
       title: Volume 1 of gsung thor bu/_blo bzang mchog grub
       volume_number: 1
       total_pages: 638
+      base_file: v001.txt
     f7bd983382d4451f8d9f1ccdbadab926:
       image_group_id: I1KG907
       title: Volume 2 of gsung thor bu/_blo bzang mchog grub
       volume_number: 2
       total_pages: 654
+      base_file: v002.txt
     c7a190570c6845bcbf92b968e68b18dc:
       image_group_id: I1KG908
       title: Volume 3 of gsung thor bu/_blo bzang mchog grub
       volume_number: 3
       total_pages: 416
+      base_file: v003.txt
     b2b4ca9c121c404ba305cbc1736bc6d5:
       image_group_id: I1KG909
       title: Volume 4 of gsung thor bu/_blo bzang mchog grub
       volume_number: 4
       total_pages: 572
+      base_file: v004.txt
     d9efd1ccdec54ccf8aa778951d790ac6:
       image_group_id: I1KG910
       title: Volume 5 of gsung thor bu/_blo bzang mchog grub
       volume_number: 5
       total_pages: 582
-  author: ''
+      base_file: v005.txt
 ebook_metadata:
   title: གསུང་ཐོར་བུ། བློ་བཟང་མཆོག་གྲུབ་
   author: ''
