@@ -5,31 +5,36 @@ source_metadata:
   title: གསུང་ཐོར་བུ། བློ་བཟང་མཆོག་གྲུབ་
   author: ''
   volumes:
-    a35487c909c849dc8c2e187ffa458195:
+    08fcd19fb0ff467183232d85c913b6ed:
       image_group_id: I1KG906
-      title: ''
+      title: Volume 1 of gsung thor bu/_blo bzang mchog grub
       volume_number: 1
       total_pages: 638
-    f78181f76cc348419765fcd35b672997:
+      base_file: v001.txt
+    f7bd983382d4451f8d9f1ccdbadab926:
       image_group_id: I1KG907
-      title: ''
+      title: Volume 2 of gsung thor bu/_blo bzang mchog grub
       volume_number: 2
       total_pages: 654
-    fe316349b13a41198aab343129201321:
+      base_file: v002.txt
+    c7a190570c6845bcbf92b968e68b18dc:
       image_group_id: I1KG908
-      title: ''
+      title: Volume 3 of gsung thor bu/_blo bzang mchog grub
       volume_number: 3
       total_pages: 416
-    1e64dcd93d5e461cb32b6b02d869eebf:
+      base_file: v003.txt
+    b2b4ca9c121c404ba305cbc1736bc6d5:
       image_group_id: I1KG909
-      title: ''
+      title: Volume 4 of gsung thor bu/_blo bzang mchog grub
       volume_number: 4
       total_pages: 572
-    9d691266e1e44085809f9ec68860db44:
+      base_file: v004.txt
+    d9efd1ccdec54ccf8aa778951d790ac6:
       image_group_id: I1KG910
-      title: ''
+      title: Volume 5 of gsung thor bu/_blo bzang mchog grub
       volume_number: 5
       total_pages: 582
+      base_file: v005.txt
 ebook_metadata:
   title: གསུང་ཐོར་བུ། བློ་བཟང་མཆོག་གྲུབ་
   author: ''
