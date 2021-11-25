@@ -1,5 +1,7 @@
 id: P008148
 initial_creation_type: ocr
+created_at: 27/03/2020
+last_modified_at: 25/11/2021
 source_metadata:
   id: bdr:W2MS2274
   title: གསུང་ཐོར་བུ། བློ་བཟང་མཆོག་གྲུབ་
@@ -35,10 +37,3 @@ source_metadata:
       volume_number: 5
       total_pages: 582
       base_file: v005.txt
-ebook_metadata:
-  title: གསུང་ཐོར་བུ། བློ་བཟང་མཆོག་གྲུབ་
-  author: ''
-  sku: P008148
-  cover: cover.jpg
-  layers:
-  - pagination
